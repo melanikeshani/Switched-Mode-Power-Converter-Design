@@ -13,7 +13,7 @@ Simulation (PLECS): Modeled the buck converter to analyze inductor current rippl
 
 Hardware Assembly: Assembled surface-mount (SMD) and through-hole components onto a custom PCB, including the power stage, gate driving circuitry, and PWM control block.
 
- <img width="563" height="737" alt="image" src="https://github.com/user-attachments/assets/16a3706f-1d83-4024-936e-bca123488119" />
+<img width="688" height="705" alt="image" src="https://github.com/user-attachments/assets/f7a27693-9951-4b84-ac0d-d6e32b5ee02c" /> 
 
 Hardware Bring-up & Testing: 
 Testing using oscilloscope the switch node voltage, AC-coupled output voltage ripple, and gating signal MS.
